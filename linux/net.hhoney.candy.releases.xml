@@ -1,4 +1,9 @@
 <releases>
+  <release version="2026.03.15" date="2026-03-15">
+    <description>
+      <p>Update developer name for Flathub</p>
+    </description>
+  </release>
   <release version="2025.07.23+1" date="2025-07-23">
     <description>
       <p>Behind-the-scenes Linux housekeeping update</p>
