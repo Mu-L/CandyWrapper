@@ -20,6 +20,7 @@
   </content_rating>
 
   <url type="homepage">https://hhoney.net</url>
+  <url type="vcs-browser">https://github.com/HarmonyHoney/CandyWrapper</url>
   <url type="bugtracker">https://github.com/HarmonyHoney/CandyWrapper/issues</url>
   <url type="donation">https://ko-fi.com/hhoney</url>
 
